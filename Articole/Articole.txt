@@ -1,0 +1,19 @@
+Feature selection, educational data mining, last 5 years:
+- IEEEXplore = 58 results
+- ScienceDirect = 8 results
+- SpringerLink = 14378 results
+Total = 141 results
+
+Feature selection, edm, last 5 years:
+- IEEEXplore = 0 results
+- ScienceDirect = 4 results
+- SpringerLink = 2308 results
+Total = 62 results
+
+Feature selection
+- Variable selection
+- Attribute selection
+- Variable subset selection
+
+Educational Data Mining
+- EDM
