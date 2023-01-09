@@ -1,0 +1,33 @@
+Stare Raport:
+- Am inceput scrierea raportului. L-am schitat, urmeaza sa mai completez si apoi sa il pun si in format IEEE
+- Atasez si draft-ul (dar e haos, eu lucrez cam dezorganizat de obicei)
+
+Articole:
+- Am selectat 11 articole pe tema aleasa de pe IEEE Explore, Scopus si Science Direct (in draft e scris mai detaliat cum am ajuns la cele 11 articole)
+- Mai sunt in plus inca 4 articole de pe Scopus si Web Of Science pe care inca nu le-am parcurs in detaliu si care raman ca backup
+- Mai este un articol de pe Science Direct care nu avea foarte multe detalii despre Feature Selection care ramane ca backup
+- Articolele in principal au ca subiect student dropout sau student performance in universitati sau in cursuri online. Toate folosesc EDM si Feature Selection.
+- Probabil le voi imparti in categorii in functie de scop si in functie de grupul tinta.
+
+Intrebari de cercetare:
+
+Lucrarea reprezinta o revizuire sistematica a literaturii ce se concentrează pe prezicerea performantei academice si a ratei de abandon in domeniul universitar. 
+Vor fi explorate următoarele întrebări de cercetare: 
+- Q1: Care este stadiul actual al domeniul prezicerii performanței academice si a ratei de abandon în domeniul universitar?
+ – Q1A: Cum sunt definite performanta academica si abandonul in domeniul universitar? 
+ – Q1B: Care sunt metricile folosite pentru a evalua predictia performantei academice si rata de abandon in domeniul universitar? 
+ – Q1C: Ce caracteristici sunt folosite pentru a prezice performanta academica si rata de abandon? 
+ – Q1D: Ce atribute sunt folosite pentru a prezice performanta academica si rata de ababdon?
+- Q2: Care este calitatea lucrărilor actuale din domeniu?
+- Q3: Cum sunt aplicate modelele de predictie si tehnicile de Feature Selection in cazuri specifice?
+- Q4: Ce rol poate avea EDM in reducerea abandonului universitar si in cresterea promovabilitatii in domeniul universitar?
+- Q5: Ce rol poate avea Feature Selection in reducerea abandonului universitar si in cresterea promovabilitatii in domeniul universitar?
+- Q6: Ce rezultate pot fi obtinute, in viitor, aplicand EDM si Feature Selection asupra unui set de date ce cuprinde date despre studentii inmatriculati la universitati din Romania?
+
+Cam multe si poate unele nici nu au sens. 
+Probabil ca ar trebui sa ma decid daca sa fac raportul de cercetare pe student performance sau student dropout.
+
+Probleme intampinate:
+- Problema cu platforma Enformation, care s-a rezolvat recent (am primit accesul intr-un final). Am completat si trimis certificatul de afiliere, dar de la ei nu am primit niciun raspuns. Am tot verificat eu pana cand intr-un final am putut sa accesez resursele.
+
+Trimit si resursele, le-am facut export .csv si .bib
