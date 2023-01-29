@@ -1,0 +1,27 @@
+Titlu -> DONE
+
+Abstract - rezumatul introductiv al raportului -> La final, dar am pus cateva chestii folositoare
+
+Introducere - poate conține: 
+definirea domeniului -> Am pus niste chestii folositoare, 
+alte articole de tip studiu bibliografic (related work) -> Pot mentiona unele articole mentionate deja in articolele selectate, 
+întrebările de cercetare pentru care se caută răspuns -> Trebuie redus ce am, 
+scurtă descriere pentru următoarele secțiuni -> La final
+
+Metodologie - în această secțiune descrieți cum ați selectat articolele pe care le parcurgeți -> Am inceput ceva in sensul asta, 
+cum le-ați catalogat (dacă este cazul) -> Poate dupa ce tehnici sunt folosite, dupa dataset, online/offline learning, liceu/facultate/etc
+-> Cautat si in articolele selectate metodologia, si mai era un articol cu metodologie descrisa bine neselectat
+
+Rezultate - din fiecare articol parcurs ar trebui să extrageți scopul, abordarea, concluziile și probleme rămase nerezolvate. -> Am inceput ceva
+Puteți structura articolele pe categorii. -> Cum am facut la metodologie
+
+Discuții - sintetizați informația din rezultate pentru a identifica problemele uzuale din domeniu,
+modalitatea în care se rezolvă aceste probleme 
+și ce probleme nu sunt încă rezolvate.
+
+Concluzii - rezumatul final al raportului -> La final
+
+Bibliografie - utilizați formatul IEEE. Folosiți doar articole științifice, cărți sau documentație oficială (nu blog-uri, opinii, wikipedia, … ). -> DONE for now
+
+! Trebuie un DRAFT pana la finalul saptamanii de prezentat lui Bucos. De luat in considerare ce comentarii a facut.
+Apoi continui si la final il pun in format IEEE
