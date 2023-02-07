@@ -14,6 +14,7 @@ cum le-ați catalogat (dacă este cazul) -> Poate dupa ce tehnici sunt folosite,
 
 Rezultate - din fiecare articol parcurs ar trebui să extrageți scopul, abordarea, concluziile și probleme rămase nerezolvate. -> Am inceput ceva
 Puteți structura articolele pe categorii. -> Cum am facut la metodologie
+De vazut ca toate sa aiba numere si procente la concluzii plus capitol de feature selection la abordare
 
 Discuții - sintetizați informația din rezultate pentru a identifica problemele uzuale din domeniu,
 modalitatea în care se rezolvă aceste probleme 
