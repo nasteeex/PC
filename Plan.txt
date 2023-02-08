@@ -10,11 +10,9 @@ scurtă descriere pentru următoarele secțiuni -> La final
 
 Metodologie - în această secțiune descrieți cum ați selectat articolele pe care le parcurgeți -> Am inceput ceva in sensul asta, 
 cum le-ați catalogat (dacă este cazul) -> Poate dupa ce tehnici sunt folosite, dupa dataset, online/offline learning, liceu/facultate/etc
--> Cautat si in articolele selectate metodologia, si mai era un articol cu metodologie descrisa bine neselectat
 
-Rezultate - din fiecare articol parcurs ar trebui să extrageți scopul, abordarea, concluziile și probleme rămase nerezolvate. -> Am inceput ceva
+Rezultate - din fiecare articol parcurs ar trebui să extrageți scopul, abordarea, concluziile și probleme rămase nerezolvate. -> DONE
 Puteți structura articolele pe categorii. -> Cum am facut la metodologie
-De vazut ca toate sa aiba numere si procente la concluzii plus capitol de feature selection la abordare
 
 Discuții - sintetizați informația din rezultate pentru a identifica problemele uzuale din domeniu,
 modalitatea în care se rezolvă aceste probleme 
